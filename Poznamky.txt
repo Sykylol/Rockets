@@ -1,3 +1,2 @@
-http://localhost:8000/game
-Token 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
-test
+adresa = http://localhost:8000/game
+Token = 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
