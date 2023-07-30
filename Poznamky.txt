@@ -1,0 +1,2 @@
+http://localhost:8000/game
+Token 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
